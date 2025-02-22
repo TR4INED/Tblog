@@ -10,8 +10,12 @@ nav{
     position: fixed;
     width: 100%;
 }
+
 p{
     color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
 }
 .logo{
     margin-top: 5px;
